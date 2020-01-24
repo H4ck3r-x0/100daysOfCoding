@@ -1,0 +1,13 @@
+@tailwind base;
+
+@tailwind components;
+
+.buttonsColor {
+	background: #434e63;
+}
+
+.screenBg {
+	background: #3e4a5e;
+}
+
+@tailwind utilities;
